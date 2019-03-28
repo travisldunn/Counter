@@ -1,1 +1,1 @@
-#A calculator built using react.js
+A calculator built using react.js
